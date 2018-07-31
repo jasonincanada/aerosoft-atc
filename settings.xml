@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RealTimeWeather>false</RealTimeWeather>
+  <ShowCallsigns>true</ShowCallsigns>
+  <ShowLines>true</ShowLines>
+  <ShowDirs>true</ShowDirs>
+  <ShowLabels>true</ShowLabels>
+  <ShowNavaids>false</ShowNavaids>
+  <ShowGrid>false</ShowGrid>
+  <ShowTracks>true</ShowTracks>
+  <ShowVectors>false</ShowVectors>
+  <ShowTerrain>false</ShowTerrain>
+  <ShowRangeRings>false</ShowRangeRings>
+  <ShowCallsignBox>false</ShowCallsignBox>
+  <PlaySounds>false</PlaySounds>
+  <SIDAutoFollow>false</SIDAutoFollow>
+  <WindowMaximized>true</WindowMaximized>
+  <max_label_font_size>11</max_label_font_size>
+  <min_label_font_size>10</min_label_font_size>
+  <aircraft_tag_font_size>11</aircraft_tag_font_size>
+  <extCenterlineLength>5</extCenterlineLength>
+  <wind_speed>0</wind_speed>
+  <wind_gust>3</wind_gust>
+  <wind_dir>253.97970769792877</wind_dir>
+  <visibility>5650</visibility>
+  <generate_delay_min>15</generate_delay_min>
+  <generate_delay_max>85</generate_delay_max>
+  <maxFPS>30</maxFPS>
+  <max_aircraft>0</max_aircraft>
+  <arrival_to_all>0.66</arrival_to_all>
+  <peak_min_count>2</peak_min_count>
+  <peak_max_count>4</peak_max_count>
+  <chance_of_peak>0.05</chance_of_peak>
+  <track_points_to_show>5</track_points_to_show>
+  <range_rings_per>10</range_rings_per>
+  <volume>10</volume>
+  <last_selected_icao>KATL</last_selected_icao>
+  <last_selected_nickname />
+  <last_selected_ip />
+  <online_login />
+  <online_password />
+  <RememberLogin>false</RememberLogin>
+  <Default>-1</Default>
+  <HUD>-1</HUD>
+  <BackgroundColor>-16777216</BackgroundColor>
+  <AircraftColor>-8355712</AircraftColor>
+  <AircraftHoverColor>-16711681</AircraftHoverColor>
+  <AircraftLandColor>-4144960</AircraftLandColor>
+  <AircraftApprColor>-4144960</AircraftApprColor>
+  <AircraftEmergencyColor>-32256</AircraftEmergencyColor>
+  <AircraftFailureColor>-50176</AircraftFailureColor>
+  <ArrCallsignColor>-1</ArrCallsignColor>
+  <DepCallsignColor>-16744193</DepCallsignColor>
+  <CallsignHoverColor>-14352640</CallsignHoverColor>
+  <RunwaysColor>-16766637</RunwaysColor>
+  <RunwaysActiveColor>-16731136</RunwaysActiveColor>
+  <WaypointsColor>-11316397</WaypointsColor>
+  <WaypointsHoverColor>-16711936</WaypointsHoverColor>
+  <NavaidsColor>-1</NavaidsColor>
+  <NavaidsHoverColor>-16711936</NavaidsHoverColor>
+  <DirsColor>-16755331</DirsColor>
+  <CenterlineColor>-16762767</CenterlineColor>
+  <CenterlineHoverColor>-65536</CenterlineHoverColor>
+  <ApproachColor>-16711936</ApproachColor>
+  <ApproachHoverColor>-16751361</ApproachHoverColor>
+  <GuidelineColor>-16747264</GuidelineColor>
+  <STARLinesColor>-16762797</STARLinesColor>
+  <SIDLinesColor>-15066598</SIDLinesColor>
+  <APPRLinesColor>-16755331</APPRLinesColor>
+  <HOLDLinesColor>-16760704</HOLDLinesColor>
+  <AircraftLineColor>-1</AircraftLineColor>
+  <TrafficWarning>-128</TrafficWarning>
+  <TrafficAlert>-5046272</TrafficAlert>
+  <ArrStripColor>-2430209</ArrStripColor>
+  <DepStripColor>-1874</DepStripColor>
+  <ArrStripActiveColor>-16711681</ArrStripActiveColor>
+  <DepStripActiveColor>-65536</DepStripActiveColor>
+  <ArrStripInActiveColor>-16777216</ArrStripInActiveColor>
+  <DepStripInActiveColor>-16777216</DepStripInActiveColor>
+  <RingsColor>-15395563</RingsColor>
+</Settings>

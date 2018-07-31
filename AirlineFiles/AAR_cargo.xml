@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Airline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ICAO>AAR</ICAO>
+  <callsign>Asiana</callsign>
+  <models>B744F,B763F</models>
+  <airports_array>
+    <string>UAAA</string>
+    <string>PANC</string>
+    <string>VTBS</string>
+    <string>ZBAA</string>
+    <string>EBBR</string>
+    <string>KORD</string>
+    <string>KDFW</string>
+    <string>EDDF</string>
+    <string>ZGGG</string>
+    <string>VVNB</string>
+    <string>VHHH</string>
+    <string>EGSS</string>
+    <string>KLAX</string>
+    <string>RPLL</string>
+    <string>KMIA</string>
+    <string>LIMC</string>
+    <string>UUDD</string>
+    <string>RJGG</string>
+    <string>KJFK</string>
+    <string>RJBB</string>
+    <string>ENGM</string>
+    <string>WMKP</string>
+    <string>KPDX</string>
+    <string>ULLI</string>
+    <string>KSFO</string>
+    <string>RKSI</string>
+    <string>ZSPD</string>
+    <string>WSSS</string>
+    <string>ZBTJ</string>
+    <string>RJAA</string>
+    <string>LOWW</string>
+    <string>ZSYT</string>
+  </airports_array>
+  <airports>UAAA,PANC,VTBS,ZBAA,EBBR,KORD,KDFW,EDDF,ZGGG,VVNB,VHHH,EGSS,KLAX,RPLL,KMIA,LIMC,UUDD,RJGG,KJFK,RJBB,ENGM,WMKP,KPDX,ULLI,KSFO,RKSI,ZSPD,WSSS,ZBTJ,RJAA,LOWW,ZSYT</airports>
+  <callsign_1>0123456789</callsign_1>
+  <callsign_2>0123456789</callsign_2>
+  <callsign_3>0123456789</callsign_3>
+  <callsign_4>0123456789</callsign_4>
+</Airline>

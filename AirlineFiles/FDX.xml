@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Airline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ICAO>FDX</ICAO>
+  <callsign>Fedex</callsign>
+  <models>B752F,B763F,B77F,MD11</models>
+  <airports_array>
+    <string>KATL</string>
+	<string>KMEM</string>
+    <string>ZGGG</string>
+    <string>CYYZ</string>
+    <string>EDDK</string>
+    <string>LFPG</string>
+    <string>KAFW</string>
+    <string>KIND</string>
+    <string>KMIA</string>
+    <string>KEWR</string>
+    <string>KOAK</string>
+    <string>PANC</string>
+  </airports_array>
+  <airports>KATL,KMEM,ZGGG,CYYZ,EDDK,LFPG,KAFW,KIND,KMIA,KEWR,KOAK,PANC</airports>
+  <callsign_1>0123456789</callsign_1>
+  <callsign_2>0123456789</callsign_2>
+  <callsign_3>0123456789</callsign_3>
+  <callsign_4>0123456789</callsign_4>
+</Airline>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stateID>d4fd9bd7ced2a3e239c654e644757dc9</stateID>
+  <center_lat>33.64351818181818</center_lat>
+  <center_long>-84.3289589010989</center_long>
+  <airport_lat>33.6367</airport_lat>
+  <airport_long>-84.42786</airport_long>
+  <selected_icao>KATL</selected_icao>
+  <levelOfDetails>10</levelOfDetails>
+  <Aircrafts />
+  <SimulationRate>1</SimulationRate>
+  <paused>true</paused>
+  <aircraft_landed>0</aircraft_landed>
+  <aircraft_departed>0</aircraft_departed>
+  <simulation_time>0</simulation_time>
+  <wind_direction>253.97970769792877</wind_direction>
+  <wind_speed>0</wind_speed>
+  <visibility>5650</visibility>
+  <ShowCallsigns>true</ShowCallsigns>
+  <ShowLines>true</ShowLines>
+  <ShowLabels>true</ShowLabels>
+  <ShowNavaids>false</ShowNavaids>
+  <ShowApproaches>false</ShowApproaches>
+  <ShowGrid>false</ShowGrid>
+  <ShowTracks>true</ShowTracks>
+  <ShowVectors>false</ShowVectors>
+  <SIDAutoFollow>false</SIDAutoFollow>
+  <ShowTerrain>false</ShowTerrain>
+  <ShowCallsignBox>false</ShowCallsignBox>
+  <LeftSidebar>true</LeftSidebar>
+  <RightSidebar>true</RightSidebar>
+  <Procedures>26;31;36;43;48;54;59;64;69;71;76;81;89;91;96;103;106;107;108;109;110;111</Procedures>
+  <Runways_Visible>7;9;10</Runways_Visible>
+  <Runways_Departure>6;8</Runways_Departure>
+  <Runways_GuideLines />
+  <Runways_Approaches />
+  <init_climb_alt>5000</init_climb_alt>
+  <go_around_alt>0</go_around_alt>
+  <ext_centerline_length>5</ext_centerline_length>
+</GameState>
