@@ -12,7 +12,7 @@ My settings and customizations for Aerosoft's Global ATC Simulator, configured f
   <dd>These edits clean up and simplify the STARs (terminal arrival routes) which are a big mess out-of-the-box.  Choose either easterly or westerly landing/takeoff direction and overwrite the <tt>KATL.txt</tt> file with the corresponding custom file before loading the sim.  If you want to change direction, you'll need to quit the sim then switcheroo the files since there can be only one file named <tt>KATL.txt</tt> at a time.</dd>
 
   <dt>States\Atlanta - Easterly.atcs, Atlanta - Westerly.atcs</dt>
-  <dd>To start a session, <i>File -> Load</i> one of these state files.  These files select which STARs/SIDs are visible, selects the arrival/departure runways, and other things.</dd>
+  <dd>To start a session, <i>File -> Load</i> one of these state files.  These files select which STARs/SIDs are visible, select the arrival/departure runways, and other things.</dd>
 
   <dt>AutoHotkey.ahk</dt>
   <dd>Some helpful macros to help save you some typing.  This automates the commands to intercept the localizer and clear for landing at the same time.  These are used with a different program, AutoHotkey, available for free on the web.</dd>
