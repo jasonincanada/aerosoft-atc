@@ -11,8 +11,8 @@
 #c::Send C APP ILS27R, C L 27R
 #r::Send C APP ILS26R, C L 26R
 
-; Ctrl-' sends a bunch of backspaces to clear the input textbox
-^'::
+; Ctrl-b sends a bunch of backspaces to clear the input textbox
+^b::
 	Send {Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}
 Return
 
